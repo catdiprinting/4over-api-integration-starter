@@ -117,6 +117,7 @@ The goal is to simplify the development process for:
 ## 📬 Need Help?
 
 If you're working on print automation, direct mail systems, or building a custom storefront — feel free to connect with [Catdi Printing](https://www.catdi.com).
+Built and maintained by [Catdi Printing](https://www.catdi.com), a full-service printing and direct mail provider that also develops custom integration tools for print businesses and 4over print brokers.
 
 ---
 
