@@ -1,5 +1,4 @@
-# 4over-api-integration-starter
-Starter integration for 4over API (pricing, products, print automation)
+
 # 4over API Integration Starter
 
 A simple starter project for working with the 4over API, including:
